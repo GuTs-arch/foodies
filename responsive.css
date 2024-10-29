@@ -1,0 +1,33 @@
+@media (max-width: 700px) {
+
+    .navigation-wrap .navbar-brand img{
+        height: 50px;
+    }
+
+
+    .navigation-wrap{
+        text-align: center;
+    }
+
+    .story-section{
+        height: auto;
+        padding: 3rem 0;
+    }
+
+    .testimonial-section .carousel-item .carousel-caption p{
+        padding: 0;
+    }
+
+    .newsletter{
+        width: 75%;
+    }
+
+    .newsletter .main-btn{
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .footer .footer-link, .footer a{
+        padding: 0 0.7rem;
+    }
+}
